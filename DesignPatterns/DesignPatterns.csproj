@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Behavior\Observer\" />
+    <Folder Include="Creational\Builder\" />
+    <Folder Include="Creational\Singleton\" />
+    <Folder Include="Structural\Adapter\" />
+    <Folder Include="Structural\Facade\CrossCuting\" />
+    <Folder Include="Structural\Facade\Domain\" />
+  </ItemGroup>
+
+</Project>
